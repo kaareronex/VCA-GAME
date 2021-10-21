@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">Jeopardy-Inspired Game Show Template</langstring>
+          <langstring xml:lang="x-none">Novo Nordisk Global Value Chain Academy Jeopardy Game Show</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="Jeopardy-Inspired_Game_Show_Template_ORG">
-    <organization identifier="Jeopardy-Inspired_Game_Show_Template_ORG">
-      <title>Jeopardy-Inspired Game Show Template</title>
+  <organizations default="Novo_Nordisk_Global_Value_Chain_Academy_Jeopardy_Game_Show_ORG">
+    <organization identifier="Novo_Nordisk_Global_Value_Chain_Academy_Jeopardy_Game_Show_ORG">
+      <title>Novo Nordisk Global Value Chain Academy Jeopardy Game Show</title>
       <item identifier="Jeopardy_v7_SCO" isvisible="true" identifierref="__5aTysiQfj2r_course_id_RES">
-        <title>Jeopardy-Inspired Game Show Template</title>
+        <title>Novo Nordisk Global Value Chain Academy Jeopardy Game Show</title>
       </item>
     </organization>
   </organizations>
